@@ -43,4 +43,21 @@ Extraction de caractéristiques (feature extraction)
 Ajustement fin (fine-tuning)
 Comparaison des deux approches
 Évaluation avec exactitude et matrice de confusion
+
 Utilisation
+Python 3.8+
+PyTorch 1.9+ avec torchvision
+scikit-learn
+pandas, numpy, matplotlib, seaborn
+PIL ou OpenCV
+
+
+Auteur
+Mohamed Tareq OUEDRAOGO 
+
+Encadrement
+Jean-Gabriel Gaudreault 
+
+Dates importantes
+Début du projet : Octobre 2025
+
